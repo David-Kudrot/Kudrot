@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: blue;
+    font-style: italic;
+}
+div{
+    border: 10px solid magenta;
+    background-color: cadetblue;
+    border-radius: 20px;
+    height: 200px;
+    width: 250px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
+    text-align: center;
+    float: left;
+}
